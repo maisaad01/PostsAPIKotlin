@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PostsAPIK</string>
+    <string name="Post_Title">Post Title</string>
+    <string name="id">00</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
